@@ -1,1 +1,1 @@
-# Statistical-Learning---Real-Estate-Price-Prediction
+You will find in this repository school projects I have done during my master's degree
