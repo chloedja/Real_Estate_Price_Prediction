@@ -13,6 +13,6 @@ _Modeling_: Implemented and compared multiple algorithms including Linear & Poly
 
 _Evaluation:_ Used RMSE and $R^2$ metrics for model selection and hyperparameter tuning.
 
-_Tools: _ Python (Scikit-Learn, Pandas, NumPy, Matplotlib)
+_Tools:_ Python (Scikit-Learn, Pandas, NumPy, Matplotlib)
 
 
