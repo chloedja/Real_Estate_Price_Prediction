@@ -1,7 +1,7 @@
 
 # Real Estate Price Prediction
 
-*Collaborative academic project — Université Paris Dauphine - PSL (June 2025)*
+*Collaborative academic project — First-year Master's Project (June 2025)*
 
 ## Overview
 A comprehensive data science project focused on predicting residential property values using supervised machine learning techniques on tabular data.
