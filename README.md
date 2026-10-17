@@ -2,6 +2,7 @@
 This repository contains projects developed during my first year of Master's degree at University Paris Dauphine - PSL.
 
 **Real Estate Price Prediction**
+
 A comprehensive data science project focused on predicting housing prices using supervised learning techniques.
 Objective: Build a robust regression model to estimate property values based on various features.
 Methodology:EDA: Conducted Exploratory Data Analysis to identify correlations and handle outliers.
