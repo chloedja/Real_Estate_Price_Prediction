@@ -1,18 +1,20 @@
 
-This repository contains projects developed during my first year of Master's degree at University Paris Dauphine - PSL.
+# Real Estate Price Prediction
 
-**Real Estate Price Prediction**
+*Academic project — Master 1, Université Paris Dauphine - PSL (June 2025)*
 
-A comprehensive data science project focused on predicting housing prices using supervised learning techniques.
+## Overview
+A comprehensive data science project focused on predicting residential property values using supervised machine learning techniques on tabular data.
 
-_Objective:_ Build a robust regression model to estimate property values based on various features.
+* **Objective:** Build and benchmark regression models to estimate property values based on structural and location features.
+* **Stack:** Python (`scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`)
 
-_Methodology:_ EDA: Conducted Exploratory Data Analysis to identify correlations and handle outliers.
+## Methodology
 
-_Modeling_: Implemented and compared multiple algorithms including Linear & Polynomial Regression, Ridge, Lasso, ElasticNet, and KNN.
-
-_Evaluation:_ Used RMSE and $R^2$ metrics for model selection and hyperparameter tuning.
-
-_Tools:_ Python (Scikit-Learn, Pandas, NumPy, Matplotlib)
-
+* **Exploratory Data Analysis (EDA):** Analyzed feature distributions, inspected correlation matrices, handled missing entries, and treated spatial/numerical outliers.
+* **Modeling:** Implemented and compared multiple algorithms:
+  * Linear & Polynomial Regression
+  * Regularized models: Ridge, Lasso, ElasticNet
+  * Non-parametric baseline: K-Nearest Neighbors (KNN)
+* **Evaluation & Tuning:** Tuned hyperparameters via cross-validation using RMSE and $R^2$ metrics for model selection.
 
